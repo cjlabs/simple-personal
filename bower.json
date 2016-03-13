@@ -1,0 +1,25 @@
+{
+  "name": "simple-personal",
+  "homepage": "https://github.com/cjlabs/simple-personal",
+  "authors": [
+    "puterakahfi <puterakahfi@gmail.com>"
+  ],
+  "description": "simple personal template example",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "simple-landing-page",
+    "bootstrap-personal-landing-page"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
